@@ -10,7 +10,7 @@ This is a MERN stack project designed to facilitate the booking of appointments 
 ## Table of Contents
 - [Features](#features)
 - [System Modules](#system-modules)
-  - [Admin](#admin)
+  - [Admin](#admin) 
   - [Teacher](#teacher)
   - [Student](#student)
 - [Tech-Stack-Used](#tech-stack-used)
